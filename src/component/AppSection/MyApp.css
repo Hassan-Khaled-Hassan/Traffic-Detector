@@ -1,0 +1,17 @@
+.image::before {
+    content: '';
+    width: 22.125rem;
+    height: 25.125rem;
+    border-radius: 28.125rem;
+    -webkit-border-radius: 28.125rem;
+    -moz-border-radius: 28.125rem;
+    -ms-border-radius: 28.125rem;
+    -o-border-radius: 28.125rem;
+    background-color: #CF77F3;
+    position: absolute;
+    z-index: -1;
+    bottom: 1rem;
+    right: 7rem;
+    filter: blur(225px);
+    -webkit-filter: blur(225px);
+}

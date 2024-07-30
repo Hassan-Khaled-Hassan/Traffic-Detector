@@ -1,0 +1,5 @@
+@media screen and (max-width: 600px) {
+    .css-128fb87-MuiDataGrid-toolbarContainer {
+        padding: 0 !important;
+    }
+}
